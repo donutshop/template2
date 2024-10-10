@@ -41,7 +41,7 @@ header {
     height: 100%;
     color: orange;
     text-align: center;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(5px);
 }
 
 header h1 {
